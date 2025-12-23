@@ -1,0 +1,12 @@
+package ENUM;
+
+public enum FloorNumber {
+    FLOORNUMBER1,
+    FLOORNUMBER2,
+    FLOORNUMBER3,
+    FLOORNUMBER4,
+    FLOORNUMBER5,
+    FLOORNUMBER6,
+    FLOORNUMBER7,
+    FLOORNUMBER8,
+}
